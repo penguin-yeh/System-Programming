@@ -4,7 +4,7 @@
 ## 支援的功能：
 1.cd 
 
-2.soft link, hard link
+2.soft link、hard link
 
 3.stat，依序顯示file owner、atime、mtime、ctime
 
