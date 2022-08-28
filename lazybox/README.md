@@ -2,4 +2,5 @@
 基於作業中的busybox的概念實現自己的版本的『lazybox』，瞭解有些指令一定要在shell中實作
 
 支援：
-1.
+1.soft link, hard link
+2.penguin
